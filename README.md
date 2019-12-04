@@ -21,6 +21,9 @@ Numbers
 <!-- links -->
 [Google](http://www.google.com)
 
+
+<!-- images -->
+![wireframe](https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png)
 <!-- code -->
 ```
 let name = "salman";
