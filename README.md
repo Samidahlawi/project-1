@@ -24,6 +24,9 @@ Numbers
 
 <!-- images -->
 ![wireframe](https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png)
+<!-- horisantaly line -->
+---
+
 <!-- code -->
 ```
 let name = "salman";
