@@ -10,4 +10,6 @@ Numbers
 
 * JS
 * Jquery
-- HTML
+- Front End
+  - HTML
+  - CSS
