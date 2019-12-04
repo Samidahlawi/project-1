@@ -18,3 +18,9 @@ Numbers
   - CSS
 <!-- links -->
 [Google](http://www.google.com)
+
+<!-- code -->
+```
+let name = "salman";
+console.log(salman");
+```
